@@ -1,2 +1,3 @@
 # Leveling-Up-Insights-Statistical-Analysis-of-Steam-Game-Trends
 This report presents a comprehensive analysis of the Steam games dataset. The analysis includes data description, preprocessing, descriptive statistics, distribution fitting, hypothesis testing, ANOVA, and regression analysis. The goal is to gain insights into the factors that influence game success on the Steam platform.
+The project explores trends in game ratings, playtime, pricing, and other attributes to identify what drives player engagement and popularity. The full report, code, and visualizations are compiled into a single HTML document: steam.html.
